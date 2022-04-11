@@ -8,7 +8,7 @@
 import Foundation
 
 class OWMClient {
-    static let apiKey = "b12cb86b900a923bc911ccaa9c85f74c"
+    static let apiKey = "{Api_Key_Here}"
 
     enum Endpoints {
         static let apiBase = "https://api.openweathermap.org"
